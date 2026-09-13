@@ -255,8 +255,8 @@ The View can then be accessed in Java/Kotlin using its generated resource ID.
 
 # 📸 9. Output Screenshots
 
-`images/img1.png`
-`images/img2.png`
+`img1.png`
+`img2.png`
 
 # 📚 10. Concepts Learned
 
