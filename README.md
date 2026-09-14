@@ -145,11 +145,6 @@ D/LIFE_CYCLE: onRestart() executed
 D/LIFE_CYCLE: onDestroy() executed
 ```
 
-> **📸 Screenshot — Logcat Output**
->
-> Add your own screenshot here after running the application.
->
-> `![Logcat Output](images/logcat.png)`
 
 ---
 
@@ -169,11 +164,6 @@ Toast.makeText(
 
 Toast messages are useful for giving quick feedback to the user without changing the current Activity.
 
-> **📸 Screenshot — Toast Output**
->
-> Add your Toast screenshot here.
->
-> `![Toast Message](images/toast.png)`
 
 ---
 
@@ -192,12 +182,6 @@ Snackbar.make(
 ```
 
 Unlike a Toast, a Snackbar can also contain an action button.
-
-> **📸 Screenshot — Snackbar Output**
->
-> Add your Snackbar screenshot here.
->
-> `![Snackbar Message](images/snackbar.png)`
 
 ---
 
@@ -254,9 +238,9 @@ The View can then be accessed in Java/Kotlin using its generated resource ID.
 ---
 
 # 📸 9. Output Screenshots
+<img width="1351" height="712" alt="img2" src="https://github.com/user-attachments/assets/07a2b17a-1122-44a9-bc38-557c97f700e0" />
+<img width="1359" height="715" alt="img1" src="https://github.com/user-attachments/assets/8bd9ea97-11c4-4a9e-8e32-fd34c18c8b45" />
 
-`img1.png`
-`img2.png`
 
 # 📚 10. Concepts Learned
 
